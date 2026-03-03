@@ -71,10 +71,10 @@ La API cuenta con manejo de conflictos de horarios para evitar colisiones entre 
 
 5. Inicializar la base de datos MySQL y ejecutar los scripts necesarios para crear tablas (users, appointments, time_blocks, etc.)
 
-USO
+   USO:
 Iniciar el servidor en modo desarrollo: npm run dev
 
-Acceder a los endpoints usando un cliente como Postman:
+  Acceder a los endpoints usando un cliente como Postman:
 
 Ejemplos de endpoints
 - Método	Ruta	Descripción
