@@ -99,5 +99,8 @@ Buenas prácticas y consideraciones:
 
 - Manejo de errores global para respuestas consistentes
 
+  AUTOR:
+    Ing. Juan Carlos Moncada <juancarlosmoncadaomana@gmail.com>
+
   
    
